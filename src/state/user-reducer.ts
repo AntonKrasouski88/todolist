@@ -1,4 +1,4 @@
-type StateType = {
+export type StateType = {
     age: number
     childrenCount: number
     name: string
